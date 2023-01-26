@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-# repo-c
-
-Hi this is repo c
-=======
-# repo-a
->>>>>>> repo-a/main
+Hi everyone this is repo -c

@@ -1,3 +1,0 @@
-[submodule "repo-a"]
-	path = repo-a
-	url = https://github.com/doriancrutcher/repo-a
